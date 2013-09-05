@@ -1,0 +1,14 @@
+{
+  "name": "node-sitemap",
+  "version": "0.0.1",
+  "description": "Sitemap generator written in nodejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicoding/node-sitemap.git"
+  },
+  "keywords": [
+    "sitemap"
+  ],
+  "author": "The Webmaker Team <webmaker-dev@mozilla.org>",
+  "license": "MPL-2.0"
+}
